@@ -1,3 +1,6 @@
 [submodule "express"]
 	path = express
 	url = https://github.com/perpyderp/ark-api.git
+[submodule "scraper"]
+	path = scraper
+	url = https://github.com/perpyderp/ark-scraper.git
