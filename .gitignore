@@ -4,3 +4,6 @@
 data.json
 
 .env
+
+# Local Netlify folder
+.netlify
