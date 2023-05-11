@@ -4,3 +4,6 @@
 [submodule "scraper"]
 	path = scraper
 	url = https://github.com/perpyderp/ark-scraper.git
+[submodule "arkreact"]
+	path = arkreact
+	url = https://github.com/perpyderp/arkreact.git
